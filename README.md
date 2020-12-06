@@ -11,8 +11,8 @@ The temperature data for June and December were tabulated during this project. T
 ![december](https://user-images.githubusercontent.com/71397190/101295753-3455aa80-37e5-11eb-88c8-e876dc8dce4c.PNG)
 
 The key differences between these two months are:
-* June averaged warmed days
-* December can drop into the 50's which is not ideal ice cream weather
+* June averaged warmer days
+* December can drop into the 50's (which is not ideal ice cream or surfing weather)
 * bullet 3
 
 # Summary
@@ -22,7 +22,7 @@ Overall, we can determine that a surf and ice cream shop could be sustainable ye
 
 ![dec_pcrp](https://user-images.githubusercontent.com/71397190/101295743-256ef800-37e5-11eb-99e3-d211f623864b.PNG)
 
-We also pulled the temperature data for a month in Q1 and Q3 (as June and December are of Q2 and Q4 respectively) and was able to determine more definitively that Oahu remains fairly consistent throughout the year weather-wise. This allows us to conclude that the surf and ice cream shop is sustainable year-round.
+We also pulled the temperature data for a month in Q1 and Q3 (as June and December are of Q2 and Q4 respectively) and was able to determine more definitively that Oahu remains fairly consistent throughout the year temperature-wise. This allows us to conclude that the surf and ice cream shop is sustainable year-round.
 
 ![march](https://user-images.githubusercontent.com/71397190/101295759-3881c800-37e5-11eb-9d21-a6acad4b1e0c.PNG)
 
