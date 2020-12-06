@@ -11,12 +11,12 @@ The temperature data for June and December were tabulated during this project. T
 ![december](https://user-images.githubusercontent.com/71397190/101295753-3455aa80-37e5-11eb-88c8-e876dc8dce4c.PNG)
 
 The key differences between these two months are:
-* bullet 1
-* bullet 2
+* June averaged warmed days
+* December can drop into the 50's which is not ideal ice cream weather
 * bullet 3
 
 # Summary
-Overall, we can determine that a surf and ice cream shop could be sustainable year-round after evaluating the temperature data for June and December. To be certain, the precipitation data was also evaluated for the two months. The precipitation statistcal analysis for the two months is depicted below.
+Overall, we can determine that a surf and ice cream shop could be sustainable year-round after evaluating the temperature data for June and December. To be certain, the precipitation data was also evaluated for the two months. The precipitation statistcal analysis for the two months is depicted below. Both months experienced little to no rain which is what you want for a business that requries good weather.
 
 ![june_pcrp](https://user-images.githubusercontent.com/71397190/101295746-299b1580-37e5-11eb-8a13-c487584ddd94.PNG)
 
